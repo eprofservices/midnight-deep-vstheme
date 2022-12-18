@@ -6,10 +6,12 @@
 
 ![Midnight Deep Screenshot](https://github.com/austinstanding/midnight-deep-vstheme/raw/master/images/screenshot1.png)
 
-This theme was born out of a need for darkness; to rest my eyes after an extended period of working long hours and feeling like all the other dark themes just weren't dark enough. This aims to be that dark theme. Midnight Deep draws from the palette of Midnight Lights, while providing a true hex #000000 background and lower brightness generally. This won't be for everyone or every occasion, but my vision is to provide an after hours theme that will let your eyes find rest even when you can't.
 
+> This theme was born out of a need for darkness; to rest my eyes after an extended period of working long hours and feeling like all the other dark themes just weren't dark enough. This aims to be that dark theme. Midnight Deep draws from the palette of Midnight Lights, while providing a true hex #000000 background and lower brightness generally. This won't be for everyone or every occasion, but my vision is to provide an after hours theme that will let your eyes find rest even when you can't.
 
-So now my fork was born because I had to make some minor modifications to make the theme usable (for me). This is an ongoing work, so don't expect it to be the final version (which is why the default branch is develop). It still needs a lot of modifications, but now at least I can look at the screen without pain.
+So now my (eprofservices) fork was born because I had to make some minor modifications to make the theme usable (for me). It is strange but the original theme looks quite different comparing to the above picture, at least on my screen. 
+
+The modifications are an ongoing work, so don't expect it to be the final version (which is why the default branch is develop). It still needs a lot of improvements like syntax highliting redesign, but now at least I can look at the screen without a pain.
 
 
 ## Installation
